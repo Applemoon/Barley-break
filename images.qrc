@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images/girl_theme">
+        <file>Images/1.png</file>
+        <file>Images/2.png</file>
+        <file>Images/3.png</file>
+        <file>Images/4.png</file>
+        <file>Images/5.png</file>
+        <file>Images/6.png</file>
+        <file>Images/7.png</file>
+        <file>Images/8.png</file>
+        <file>Images/9.png</file>
+        <file>Images/10.png</file>
+        <file>Images/11.png</file>
+        <file>Images/12.png</file>
+        <file>Images/13.png</file>
+        <file>Images/14.png</file>
+        <file>Images/15.png</file>
+        <file>Images/background.png</file>
+    </qresource>
+    <qresource prefix="/images/paper_theme">
+        <file>Images/cellFrame1.png</file>
+        <file>Images/cellFrame2.png</file>
+        <file>Images/cellFrame3.png</file>
+        <file>Images/cellBackground.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Sounds/move.wav</file>
+        <file>Sounds/music.wav</file>
+        <file>Sounds/say_yeaah.wav</file>
+    </qresource>
+</RCC>
