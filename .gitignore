@@ -18,7 +18,3 @@ moc_*.cpp
 qrc_*.cpp
 Makefile
 *-build-*
-
-# media
-*.wav
-*.png
